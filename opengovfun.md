@@ -52,7 +52,7 @@ Fundation is a full-stack framework that streamlines dApp development. It emphas
 
 - **Core Capabilities**: Automated chain connections for precise, on-demand interactions without manual setup.
 
-- **Benefits**: Delivers lightning-fast, reliable performance ideal for real-time dApps, eliminating boilerplate and reducing development time.
+- **Benefits**: Delivers lightning-fast, reliable performance ideal for  dApps, eliminating boilerplate and reducing development time.
 
 3. **Modular Design for Ultimate Flexibility**
 
