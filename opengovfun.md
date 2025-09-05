@@ -127,7 +127,3 @@ initial funding request: 15.00K USDC - 7.65K DOT (or equivalent, subject to mark
 - **Risk**: Polkadot ecosystem changes (e.g., upgrades).
 
 - **Mitigation**: Design for flexibility; active participation in Substrate updates.
-
-- **Risk**: Funding delays.
-
-- **Mitigation**: Bootstrap with personal resources; phased releases to demonstrate value.
