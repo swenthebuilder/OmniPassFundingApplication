@@ -97,7 +97,7 @@ The roadmap is divided into phases, with "Lvl One: Let the Fun Begin" as the ini
 initial funding request: 15.00K USDC - 7.65K DOT (or equivalent, subject to market rates).
 
 ## Funding and Budget
-**Total Request**: 7,650 DOT (~30,000 USDT at ~$3.92/DOT, Coingecko Sep 2025).
+
 
 | Category     | Percentage | Description                  | Amount in USDT | Amount in DOT |
 |--------------|------------|------------------------------|----------------|---------------|
