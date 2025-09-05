@@ -101,10 +101,10 @@ initial funding request: 15.00K USDC - 7.65K DOT (or equivalent, subject to mark
 
 | Category     | Percentage | Description                  | Amount in USDT | Amount in DOT |
 |--------------|------------|------------------------------|----------------|---------------|
-| Development | 75%       | "Development, Tools, and servers",| 11,250 USDT   | 5,737 DOT    |
-| Marketing   | 15%       | Hackathons, tutorials, events | 2,250 USDT    | 1,147 DOT    |
-| Operations  | 5%        | Legal, audits                | 750 USDT    | 382 DOT      |
-| Contingency | 5%        | Unexpected costs             | 750 USDT    | 382 DOT      |
+| Development | 75%       | "Development, Tools, and servers",| 11,250 USDT   | 7,650  DOT    |
+| Marketing   | 15%       | tutorials, Social Media, | 2,250 USDT    |    |
+| Operations  | 5%        | Legal, audits                | 750 USDT    |     |
+| Contingency | 5%        | Unexpected costs             | 750 USDT    |      |
 | **Total**   | **100%**  |                              | **15,000 USDT**| **7,650 DOT**
 - **Funding Sources**: Polkadot Treasury grants, VC investments, community crowdfunding via DOT/KSM.
 
